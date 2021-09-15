@@ -1,0 +1,2 @@
+Controlador é o responsável por armazenar a regra de negócio
+CRUD = Create, Read, Update and Delete
